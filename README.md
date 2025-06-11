@@ -5,21 +5,36 @@ Players go in turns to try to guess the correct items in the opponents rack. The
 
 With a very cool user interface and a well thought out game play, this promises to be an exciting game which you can play with friends and family.
 
-## Prerequisites
+## Setup Guide
 
-Ensure you have the following installed:
+### 1. Install Git and Node.js
 
-- Node.js >= 16.x
-- Git
+Before you begin, make sure Git and Node.js are installed on your system.
+If not, download and install them from the following links:
 
-## 📦 Installation
+* [Node.js](https://nodejs.org/en/download)
+* [Git](https://git-scm.com/downloads)
+
+### 2. Clone the Repository
+
+Open your terminal and run the following commands:
 
 ```bash
 git clone https://github.com/0x3ca54/arena-world.git
 cd arena-world
+```
+
+### 3. Install Dependencies
+
+Inside the project directory, install the required packages:
+
+```bash
 npm install
 ```
-## Start:
+
+### 4. Start the Project
+
+Once the installation is complete, start the project with:
 
 ```bash
 npm start
