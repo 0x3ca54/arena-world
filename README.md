@@ -48,7 +48,7 @@ Core Backend - Solidity
 Snarkjs Prover - Nodejs
 ```
 
-<img src="public/bg1.png" width="100%">
-<img src="public/bg2.png" width="100%">
-<img src="public/bg3.png" width="100%">
+<img src="public/bg11.png" width="100%">
+<img src="public/bg21.png" width="100%">
+<img src="public/bg31.png" width="100%">
 
